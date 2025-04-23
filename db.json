@@ -1,0 +1,15 @@
+{
+    "users":[{
+        "id": 1,
+        "name": "Arthur Oliveira",
+        "email": "oliveira@barto.com.br"
+    },{
+        "id": 2,
+        "name": "Maria Julia",
+        "email": "mj@barto.com.br"
+    },{
+        "id": 3,
+        "name": "Murillo Leite",
+        "email": "murillolll@barto.com.br"
+    }]
+}
