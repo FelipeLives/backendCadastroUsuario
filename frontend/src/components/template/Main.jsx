@@ -6,7 +6,7 @@ import Header from './Header'
 // tag extra no DOM
 export default props =>
     <React.Fragment>
-        <Header />
+        <Header {...props} />
         <main className='content'>
             conteúdo
         </main>
