@@ -6,4 +6,10 @@ import Nav from '../components/template/Nav'
 import Main from '../components/template/Main'
 import Footer from '../components/template/Footer'
 
-fewfewfwefewfwef
+export default props =>
+    <div className='app'>
+        <Logo />
+        <Nav />
+        <Main />
+        <Footer />
+    </div>
